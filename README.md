@@ -1,15 +1,14 @@
 # Changelog for Weapons balance 23.8.2020
 
+- New additions:
+    - Project Opfor Lee Enfield
+
 - Weapon changes:
     - PO:
         - Lee Enfield (Rail):
             - Changed weight from 3.95kg to 4.04kg
 
 # Changelog for Weapons balance 29.7.2020
-
-- New additions:
-    - 200Rnd RHS 5.56 tracer box
-    - RHS 7VM rocket
 
 - Weapon changes:
     - PO:
