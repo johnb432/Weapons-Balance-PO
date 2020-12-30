@@ -12,14 +12,15 @@ class CfgWeapons {
         class WeaponSlotsInfo: WeaponSlotsInfo {};
     };
     class LOP_Weap_LeeEnfield: EBR_base_F {
-        scope = 2;
+        displayName = "Lee-Enfield No.1 Mk.III*";
         magazineWell[] = {"CBA_303B_LeeEn"};
+        scope = 2;
         class WeaponSlotsInfo: WeaponSlotsInfo {
             mass = 87;
         };
     };
     class LOP_Weap_LeeEnfield_railed: LOP_Weap_LeeEnfield {
-        displayName = "Lee Enfield (Rail)";
+        displayName = "Lee-Enfield No.1 Mk.III* (Rail)";
         class WeaponSlotsInfo: WeaponSlotsInfo {
             mass = 89;
         };

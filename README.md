@@ -1,5 +1,18 @@
 # Changelog for Weapons balance 23.8.2020
 
+- Weapon changes:
+    - PO:
+        - Lee Enfield:
+            - Changed name to "Lee-Enfield No.1 Mk.III*"
+        - Lee Enfield (Rail):
+            - Changed name to "Lee-Enfield No.1 Mk.III* (Rail)"
+
+- Weight balancing:
+    - PO:
+        - 10Rnd PO .303 Lee Enfield from 0.20kg to 0.26kg
+
+# Changelog for Weapons balance 23.8.2020
+
 - New additions:
     - Project Opfor Lee Enfield
 
@@ -22,7 +35,7 @@
 
 - Weight balancing:
     - PO:
-        - 10Rnd PO .303 Lee Enfield from 0.54kg to 0.27kg
+        - 10Rnd PO .303 Lee Enfield from 0.54kg to 0.20kg
 
 - Models/Icons/Names:
     - PO
