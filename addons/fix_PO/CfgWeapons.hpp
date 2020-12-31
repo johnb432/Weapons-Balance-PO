@@ -1,3 +1,5 @@
+class asdg_OpticRail1913;
+
 class CfgWeapons {
     class Uniform_Base;
     class Rifle;
@@ -23,6 +25,7 @@ class CfgWeapons {
         displayName = "Lee-Enfield No.1 Mk.III* (Rail)";
         class WeaponSlotsInfo: WeaponSlotsInfo {
             mass = 89;
+            //class CowsSlot: asdg_OpticRail1913 {};
         };
     };
 
