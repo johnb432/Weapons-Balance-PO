@@ -1,3 +1,9 @@
+# Changelog for magazine_compatibility 03.01.2021
+
+- Backpacks:
+    - Field Pack (Medic/Tubitak):
+        - Changed name to "Kitbag (Medic/Tubitak)"
+
 # Changelog for Weapons balance 23.8.2020
 
 - Weapon changes:
