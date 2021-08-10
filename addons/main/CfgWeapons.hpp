@@ -25,7 +25,8 @@ class CfgWeapons {
         displayName = "Lee-Enfield No.1 Mk.III* (Rail)";
         class WeaponSlotsInfo: WeaponSlotsInfo {
             mass = 89;
-            //class CowsSlot: asdg_OpticRail1913 {};
+            delete CowsSlot;
+            class CowsSlot: asdg_OpticRail1913 {};
         };
     };
 

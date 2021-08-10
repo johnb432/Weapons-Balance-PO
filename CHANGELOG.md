@@ -1,4 +1,14 @@
-# Changelog for magazine_compatibility 03.01.2021
+# Changelog for Weapons balance 9.8.2021
+
+1.1.0.0
+- Added hemtt support
+
+- Weapon changes:
+    - PO:
+        - Lee Enfield (Rail):
+            - Added more scopes
+
+# Changelog for Weapons balance 3.1.2021
 
 - Backpacks:
     - Field Pack (Medic/Tubitak):

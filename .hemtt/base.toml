@@ -1,0 +1,12 @@
+name = "Weapons-Balance-PO"
+prefix = "wb_po"
+author = "johnb43"
+template = "cba"
+mainprefix = "z"
+files = [
+    "CHANGELOG.md",
+    "mod.cpp",
+    "LICENSE"
+]
+folder_optionals = false
+sig_version = 3
