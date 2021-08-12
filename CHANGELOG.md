@@ -5,8 +5,12 @@
 
 - Weapon changes:
     - PO:
-        - Lee Enfield (Rail):
-            - Added more scopes
+    - Lee Enfield:
+        - Changed name to "Lee-Enfield No.4 Mk.I"
+    - Lee Enfield (Rail):
+        - Changed name to "Lee-Enfield No.4 Mk.I (Rail)"
+        - Added more scopes
+
 
 # Changelog for Weapons balance 3.1.2021
 
