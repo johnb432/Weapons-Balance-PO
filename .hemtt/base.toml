@@ -6,7 +6,8 @@ mainprefix = "z"
 files = [
     "CHANGELOG.md",
     "mod.cpp",
-    "LICENSE"
+    "LICENSE",
+    "README.md"
 ]
 folder_optionals = false
 sig_version = 3
