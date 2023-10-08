@@ -1,0 +1,21 @@
+name = "Weapons-Balance-PO"
+prefix = "wb_po"
+mainprefix = "z"
+
+[properties]
+author = "johnb43"
+url = "https://github.com/johnb432"
+
+[files]
+include = [
+    "CHANGELOG.md",
+    "mod.cpp",
+    "LICENSE",
+    "README.md"
+]
+
+[binarize]
+enabled = false
+
+[asc]
+enabled = true

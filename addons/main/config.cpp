@@ -7,12 +7,7 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "po_factions_afr",
-            "po_factions_eu",
-            "po_factions_fic",
-            "po_factions_me",
-            "po_main",
-            "po_vehicles"
+            "wb_po_prep"
         };
         author = "johnb43";
         authors[] = {"johnb43"};
